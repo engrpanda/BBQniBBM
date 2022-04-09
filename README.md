@@ -11,7 +11,7 @@ https://github.com/engrpanda/BBQniBBM/releases
 
 -FREE and No ADS. and i have nothing to gain in this app.
 
--i dont own any assets/pictures, any comment/suggestions/reactions is all welcome. email me at janleepanda3@gmail.com
+-i don't own any assets/pictures, any comment/suggestions/reactions is all welcome. Or if the asset/picture is yours or unallowed/prohibited, email me so i can remove it.
 
 Just wanted to make an app for my own learning and also to support bbm. :)
 
@@ -22,3 +22,4 @@ Just wanted to make an app for my own learning and also to support bbm. :)
 
 
 
+ email: janleepanda3@gmail.com
